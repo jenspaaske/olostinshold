@@ -1,13 +1,14 @@
 Description:
-
+Elverdruid
 
 Affiliations:
 
 
-Sessions, vedkommende er mødt i:
+Sessions, det er nævnt i:
 
 
 Har hjemme i:
+[[High Forest]]
 
 
 Eksterne referencer:

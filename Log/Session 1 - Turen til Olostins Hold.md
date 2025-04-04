@@ -1,3 +1,4 @@
+[[Log Overview]]
 Date real world: 13/2 2023
 Date ingame: 18. Mirtul
 Present: Lasse, Wilhelm, Jens

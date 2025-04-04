@@ -8,20 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecf9578d7ae5b9e4",
+            "id": "60f2a910ac5a8e42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log/Log Overview.md",
+                "file": "Persons/NPC/Queen Othursie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Log Overview"
+              "title": "Queen Othursie"
+            }
+          },
+          {
+            "id": "46629ccd11bdbf9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Persons/Person overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Person overview"
+            }
+          },
+          {
+            "id": "e8076f3f7a04684b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log/Session 5 - Snakke med Queen Othursie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 5 - Snakke med Queen Othursie"
+            }
+          },
+          {
+            "id": "d9f9dc0371c8c07d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods/Tiamat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tiamat"
+            }
+          },
+          {
+            "id": "7b25fac1859bdef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log/Session 6 - Noanar's Hold.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 6 - Noanar's Hold"
+            }
+          },
+          {
+            "id": "21ae81abf9818541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Persons/NPC/Mithhala.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mithhala"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,39 +236,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecf9578d7ae5b9e4",
+  "active": "079902df961e4db9",
   "lastOpenFiles": [
-    "adfadsf.md",
+    "Affiliations/The Five Chromatic Banes.md",
+    "Persons/NPC/Mithhala.md",
+    "Persons/NPC/Nahrham den Store.md",
+    "Persons/NPC/Herold Jester.md",
+    "Persons/NPC/Flynder Hotheart.md",
+    "Locations/Børnehjemmet.md",
+    "Persons/NPC/Golgar Fireaxe.md",
+    "Quests/Quest log.md",
+    "Persons/NPC/Old snarl.md",
     "Log/Log Overview.md",
-    "Persons/NPC/Alandra Mirithal.md",
-    "Log/Session 1 - Turen til Olostins Hold.md",
-    "Locations/Silverwood.md",
     "Locations/Olostins Hold.md",
-    "Images/Sword_Coast_North.webp",
-    "Locations/The Evermoors.md",
-    "Templates/Location Template.md",
-    "The Moors.md",
-    "Affiliations/Yuan Ti fra Maerimydra.md",
-    "Persons/NPC/Thenall.md",
-    "Log/Session 46 - smadre shrines.md",
-    "Affiliations/Harpers.md",
+    "Locations/Noanar's Hold.md",
+    "Persons/NPC/Leofric Armland.md",
+    "Persons/NPC/Lionel.md",
     "Templates/NPC template.md",
-    "Persons/Characters/Fauna.md",
-    "Templates/Character feelings.md",
-    "Welcome.md",
-    "2025-04-02.md",
+    "Persons/NPC/Faith.md",
+    "Log/Session 6 - Noanar's Hold.md",
+    "Affiliations/Yuan Ti fra Maerimydra.md",
+    "Gods",
+    "Gods/Tiamat.md",
+    "Templates/God template.md",
+    "Affiliations/Cult of the Dragon.md",
+    "Persons/NPC/Inferno.md",
+    "Locations/High Forest.md",
+    "Persons/NPC/Ellevel.md",
+    "Images/Sword_Coast_North.webp",
+    "Log/Session 5 - Snakke med Queen Othursie.md",
+    "Persons/NPC/Chapbow.md",
+    "Quests",
     "Persons/NPC",
-    "Locations/Everlund.md",
-    "Templates/Affiliation template.md",
-    "Affiliations/Zoar-familien.md",
-    "Locations/Neverwinter.md",
-    "Persons/NPC/Tamalin Zoar.md",
-    "Persons/NPC/Nelaweh.md",
-    "Locations/Calling Horns.md",
-    "Persons/NPC/Abarana Startoucher.md",
     "Images/Sword_Coast_North.webp.crdownload",
     "Images",
     "Ny mappe",
@@ -205,8 +279,6 @@
     "Log",
     "Affiliations",
     "Locations",
-    "Untitled.canvas",
-    "Persons/Characters",
-    "Persons"
+    "Untitled.canvas"
   ]
 }
